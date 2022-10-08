@@ -1,5 +1,5 @@
 # MarkdownEditor
-A simple online Markdown Editor
+A spartan online Markdown Editor.
 
 ## 🛠️ Installation Steps:
 ```
@@ -7,8 +7,7 @@ npm install
 npm start
 ```
 
-## 💻 Built with
-Technologies used in the project:
+## 💻 Technologies used in the project:
 *   React
 *   styled-components
 *   marked
